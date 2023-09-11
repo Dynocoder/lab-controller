@@ -11,6 +11,9 @@ To learn to use the software refer to the [User Demonstration Video](https://you
 
 The software is not complete and released yet, this is just for demonstration purposes only.
 
+## Running
+To run the software run the `main.py` file. Follow the instructions on the User Demonstration Video
+
 
 ## Screenshots
 
